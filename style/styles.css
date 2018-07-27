@@ -1,0 +1,48 @@
+body {
+  background-color: #f2f2f4; }
+
+h1 {
+  letter-spacing: 10px;
+  font-size: 12em;
+  line-height: 1.15em;
+  color: #ffdfd7;
+  font-family: "Francois One", sans-serif;
+  text-transform: uppercase; }
+
+main {
+  margin-top: 3em;
+  text-align: center; }
+
+header {
+  margin-bottom: 15em; }
+
+a {
+  color: black;
+  font-family: "Cutive Mono", monospace;
+  font-size: 5em;
+  line-height: .05em;
+  letter-spacing: .15em;
+  text-decoration: none;
+  display: block; }
+
+.w-box,
+.a-box,
+.c-box {
+  position: relative;
+  margin-bottom: 12rem; }
+
+.a-hr,
+.w-hr,
+.c-hr {
+  border-color: rgba(216, 205, 54, .75);
+  width: 15em;
+  border-width: 14px;
+  border-style: solid; }
+
+.a-hr {
+  border-color: rgba(166, 170, 120, .5);
+  width: 20em; }
+
+.c-hr {
+  border-color: rgb(60,114,118, .5);
+  width: 27em; }
