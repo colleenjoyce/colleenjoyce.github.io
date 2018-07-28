@@ -39,12 +39,13 @@ a {
 
 .w-hr {
   border-color: rgba(216, 205, 54, .75);
-  width: 15em; }
+  width: 15em;
+}
 
 .a-hr {
   border-color: rgba(166, 170, 120, .5);
   width: 20em; }
 
 .c-hr {
-  border-color: rgb(60,114,118, .5);
+  border-color: rgb(144,212,197, .5);
   width: 27em; }
