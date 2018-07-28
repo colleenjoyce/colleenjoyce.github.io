@@ -34,10 +34,12 @@ a {
 .a-hr,
 .w-hr,
 .c-hr {
-  border-color: rgba(216, 205, 54, .75);
-  width: 15em;
   border-width: 14px;
   border-style: solid; }
+
+.w-hr {
+  border-color: rgba(216, 205, 54, .75);
+  width: 15em; }
 
 .a-hr {
   border-color: rgba(166, 170, 120, .5);
