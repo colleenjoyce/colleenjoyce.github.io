@@ -13,8 +13,8 @@ main {
   margin-top: 3em;
   text-align: center; }
 
-header {
-  margin-bottom: 15em; }
+/* header {
+  margin-bottom: 15em; } */
 
 a {
   color: black;
@@ -28,6 +28,7 @@ a {
 .w-box,
 .a-box,
 .c-box {
+  display: none;
   position: relative;
   margin-bottom: 12rem; }
 
