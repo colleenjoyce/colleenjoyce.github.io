@@ -23,7 +23,7 @@ h1 {
 a {
   color: #708090;
   text-decoration: none;
-  border-bottom: solid #708090 1.85px;
+  /* border-bottom: solid #708090 1.85px; */
   padding-bottom: .15em; }
 
 a:hover {
