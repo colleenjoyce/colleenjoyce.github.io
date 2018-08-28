@@ -32,16 +32,37 @@ a:hover {
 
 .location {
   font-family: "Cutive Mono", monospace;
-  width: 33%;
+  /* width: 33%; */
   margin: 0 auto;
   margin-top: 8em;
   font-size: .85em;
   color: #708090; }
 
-.location> p {
+.location > p {
   display: inline-block;
   text-transform: uppercase; }
 
 .fa-moon {
   font-size: .85em;
   color: #dbe138; }
+
+@media only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 667px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+    h1 {
+      margin: 1em 1em 1.75em 1em;
+    }
+
+    .services {
+      font-size: 2em;
+    }
+
+    .location {
+      font-size: 2em;
+    }
+
+    .fa-moon {
+      font-size: .35em;
+    }
+}
