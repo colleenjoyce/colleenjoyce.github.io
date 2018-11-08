@@ -1,5 +1,6 @@
 body {
   background-color: #f2f2f4;
+  background-color: #EFE6E7;
   font-size: 16px; }
 
 main {
@@ -16,11 +17,11 @@ h1 {
 
 .services {
   font-family: "Cutive Mono", monospace;
-  font-size: 1.25em;
+  font-size: 1.2em;
   line-height: 1.75em;
-  color: #708090; }
+  color: #000; }
 
-a {
+/* a {
   color: #708090;
   text-decoration: none;
   padding-bottom: .15em;
@@ -28,7 +29,7 @@ a {
 
 a:hover {
   color: #00f;
-  border-bottom: solid #00f 1.85px; }
+  border-bottom: solid #00f 1.85px; } */
 
 .location {
   font-family: "Cutive Mono", monospace;
